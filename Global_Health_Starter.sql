@@ -1,8 +1,8 @@
--- Create database
+-- database
 CREATE DATABASE IF NOT EXISTS global_healthcare;
 USE global_healthcare;
 
--- Create tables
+-- tables
 CREATE TABLE IF NOT EXISTS healthcare_workforce (
     country VARCHAR(100) PRIMARY KEY,
     medical_doctors_per_10k DECIMAL(10,2),
@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS maternal_mortality (
     PRIMARY KEY (IND_ID, DIM_TIME, GEO_NAME_SHORT)
 );
 
--- Create revised table with simpler structure
+
 CREATE TABLE skilled_birth_attendance (
     IndicatorCode VARCHAR(50),
     Indicator VARCHAR(255),
