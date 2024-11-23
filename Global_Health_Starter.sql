@@ -51,3 +51,5 @@ CREATE TABLE skilled_birth_attendance (
     Language VARCHAR(10),
     DateModified VARCHAR(50)
 );
+
+-- TEST COMMMENT 
