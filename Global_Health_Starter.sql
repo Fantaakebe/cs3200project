@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS healthcare_workforce (
     pharmacists_year INT
 );
 
+
 CREATE TABLE IF NOT EXISTS maternal_mortality (
     IND_ID VARCHAR(50),
     IND_CODE VARCHAR(50),
@@ -35,35 +36,21 @@ CREATE TABLE IF NOT EXISTS maternal_mortality (
 );
 
 
-CREATE TABLE skilled_birth_attendance (
+CREATE TABLE skilled_personnel_cleaned (
     IndicatorCode VARCHAR(50),
     Indicator VARCHAR(255),
     ValueType VARCHAR(50),
     ParentLocationCode VARCHAR(50),
     ParentLocation VARCHAR(100),
-    LocationType VARCHAR(50),
+    `Location type` VARCHAR(50),  
     SpatialDimValueCode VARCHAR(50),
     Location VARCHAR(100),
-    PeriodType VARCHAR(50),
+    `Period type` VARCHAR(50),    
     Period VARCHAR(20),
     IsLatestYear VARCHAR(10),
     FactValueNumeric DECIMAL(10,2),
     Value VARCHAR(20),
-    Language VARCHAR(10),
     DateModified VARCHAR(50)
 );
 
--- Query One: Countries with Highest and Lowest Mortality Rates
-SELECT GEO_NAME_SHORT AS country, RATE_PER_100000_N AS maternal_mortality_rate
-FROM maternal_mortality
-WHERE RATE_PER_100000_N IS NOT NULL
-ORDER BY maternal_mortality_rate DESC
-LIMIT 5;
-
-SELECT GEO_NAME_SHORT AS country, RATE_PER_100000_N AS maternal_mortality_rate
-FROM maternal_mortality
-WHERE RATE_PER_100000_N IS NOT NULL
-ORDER BY maternal_mortality_rate ASC
-LIMIT 5;
-
--- TEST COMMMENT 
+SELECT * FROM skilled_personnel_cleaned;
