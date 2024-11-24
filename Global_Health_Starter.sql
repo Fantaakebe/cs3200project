@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS maternal_mortality (
 );
 
 
-CREATE TABLE skilled_personnel_cleaned (
+CREATE TABLE IF NOT EXISTS skilled_personnel_cleaned (
     IndicatorCode VARCHAR(50),
     Indicator VARCHAR(255),
     ValueType VARCHAR(50),
