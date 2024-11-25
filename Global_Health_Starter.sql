@@ -54,3 +54,36 @@ CREATE TABLE IF NOT EXISTS skilled_personnel_cleaned (
 );
 
 SELECT * FROM skilled_personnel_cleaned;
+
+-- Regions Table
+CREATE TABLE IF NOT EXISTS regions (
+    region_id VARCHAR(50) PRIMARY KEY,
+    region_name VARCHAR(100) NOT NULL
+);
+
+-- Countries Table
+CREATE TABLE IF NOT EXISTS countries (
+    geo_code VARCHAR(50) PRIMARY KEY,
+    country_name VARCHAR(100) NOT NULL,
+    region_id VARCHAR(50),
+    FOREIGN KEY (region_id) REFERENCES regions(region_id)
+);
+
+-- Indicators Table
+CREATE TABLE IF NOT EXISTS indicators (
+    indicator_id INT AUTO_INCREMENT PRIMARY KEY,
+    indicator_name VARCHAR(100) NOT NULL,
+    description TEXT
+);
+
+-- Country Indicators Table
+CREATE TABLE IF NOT EXISTS country_indicators (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    geo_code VARCHAR(50),
+    indicator_id INT,
+    value DECIMAL(10,2),
+    data_year INT,
+    FOREIGN KEY (geo_code) REFERENCES countries(geo_code),
+    FOREIGN KEY (indicator_id) REFERENCES indicators(indicator_id)
+);
+
