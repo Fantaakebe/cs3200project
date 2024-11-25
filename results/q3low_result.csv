@@ -1,0 +1,1001 @@
+country,maternal_mortality_rate
+Belarus,1.08
+Belarus,1.10
+Belarus,1.11
+Belarus,1.24
+Belarus,1.31
+Belarus,1.45
+Norway,1.66
+Belarus,1.67
+Poland,1.87
+Poland,1.88
+Poland,1.89
+Norway,1.94
+Belarus,1.96
+Poland,1.96
+Poland,1.98
+Norway,1.99
+Poland,2.10
+Norway,2.15
+Poland,2.17
+Norway,2.23
+Poland,2.29
+Poland,2.38
+Norway,2.41
+Poland,2.54
+Belarus,2.55
+Norway,2.58
+Iceland,2.65
+Belarus,2.71
+Iceland,2.80
+Iceland,2.82
+"North Macedonia",2.88
+Malta,2.89
+Iceland,2.92
+Iceland,2.93
+Australia,2.94
+Poland,2.96
+Iceland,3.00
+"North Macedonia",3.04
+Seychelles,3.07
+"Czech Republic",3.08
+"North Macedonia",3.09
+Iceland,3.10
+Iceland,3.12
+Norway,3.13
+"Czech Republic",3.14
+Greece,3.14
+Iceland,3.16
+Greece,3.17
+Spain,3.17
+"Czech Republic",3.18
+Greece,3.18
+Norway,3.19
+Greece,3.21
+Belarus,3.24
+Poland,3.26
+Greece,3.28
+Iceland,3.29
+"North Macedonia",3.29
+Malta,3.30
+Seychelles,3.33
+"Czech Republic",3.34
+"Czech Republic",3.35
+"Czech Republic",3.37
+Greece,3.38
+Iceland,3.42
+Greece,3.43
+"North Macedonia",3.44
+Spain,3.44
+Slovenia,3.47
+"Czech Republic",3.50
+Seychelles,3.54
+Greece,3.55
+"Czech Republic",3.59
+Greece,3.63
+Iceland,3.68
+"Czech Republic",3.74
+Greece,3.77
+Malta,3.78
+Norway,3.82
+Poland,3.82
+Spain,3.83
+Greece,3.85
+Spain,3.88
+Spain,3.92
+Iceland,3.97
+Spain,3.97
+Iceland,3.98
+Iceland,3.99
+Spain,4.00
+Spain,4.01
+Norway,4.02
+Greece,4.03
+Iceland,4.03
+Iceland,4.04
+Greece,4.05
+Malta,4.05
+Spain,4.05
+Spain,4.06
+Spain,4.07
+Greece,4.10
+"North Macedonia",4.10
+Spain,4.10
+Spain,4.12
+Spain,4.16
+Greece,4.17
+Malta,4.20
+Japan,4.25
+"Czech Republic",4.26
+Iceland,4.27
+Norway,4.27
+Spain,4.29
+Poland,4.30
+Spain,4.30
+Greece,4.31
+Japan,4.31
+Belarus,4.32
+Greece,4.35
+Slovenia,4.37
+Malta,4.41
+Australia,4.42
+Germany,4.43
+Greece,4.43
+Slovenia,4.43
+Germany,4.45
+Malta,4.48
+Greece,4.49
+Spain,4.49
+Norway,4.51
+Denmark,4.52
+"North Macedonia",4.52
+Croatia,4.53
+Slovenia,4.53
+Spain,4.55
+"Czech Republic",4.56
+Australia,4.57
+"North Macedonia",4.58
+Germany,4.59
+Greece,4.59
+Italy,4.59
+Australia,4.60
+"Czech Republic",4.62
+Iceland,4.63
+Seychelles,4.63
+Slovenia,4.63
+Slovakia,4.65
+Denmark,4.66
+"Czech Republic",4.70
+Germany,4.71
+Seychelles,4.71
+Germany,4.72
+Italy,4.72
+Germany,4.73
+Australia,4.77
+Norway,4.79
+Slovakia,4.79
+Greece,4.81
+Croatia,4.82
+"North Macedonia",4.82
+Poland,4.82
+Slovakia,4.82
+Greece,4.83
+"Czech Republic",4.84
+Japan,4.85
+Slovakia,4.86
+Spain,4.86
+Japan,4.87
+Australia,4.89
+Croatia,4.89
+Italy,4.89
+Slovakia,4.89
+Turkmenistan,4.92
+Spain,4.94
+Norway,4.95
+Greece,4.96
+Ireland,4.98
+Turkmenistan,4.99
+Denmark,5.00
+Turkmenistan,5.00
+Denmark,5.01
+Germany,5.01
+Malta,5.01
+Slovenia,5.01
+Spain,5.01
+Slovenia,5.04
+Spain,5.04
+Japan,5.06
+Seychelles,5.06
+Slovakia,5.06
+Estonia,5.07
+Australia,5.09
+Slovakia,5.09
+Japan,5.10
+Australia,5.11
+Denmark,5.11
+Slovakia,5.11
+Australia,5.12
+Greece,5.12
+Denmark,5.13
+Seychelles,5.13
+Austria,5.14
+Japan,5.14
+Norway,5.14
+Norway,5.15
+Turkmenistan,5.15
+Australia,5.18
+Estonia,5.18
+Japan,5.19
+Norway,5.21
+Slovakia,5.22
+Austria,5.23
+Australia,5.24
+Slovakia,5.25
+Spain,5.25
+Iceland,5.27
+"Czech Republic",5.28
+Japan,5.30
+Albania,5.31
+Malta,5.32
+Austria,5.34
+Croatia,5.34
+Ireland,5.34
+Poland,5.34
+Germany,5.35
+Greece,5.35
+Norway,5.35
+Croatia,5.36
+Greece,5.36
+Estonia,5.37
+Australia,5.38
+"North Macedonia",5.38
+Norway,5.38
+Australia,5.39
+"Bosnia and Herzegovina",5.39
+Montenegro,5.39
+Germany,5.40
+Slovenia,5.42
+Albania,5.43
+Ireland,5.43
+Australia,5.45
+Montenegro,5.46
+Slovakia,5.47
+Denmark,5.48
+Austria,5.49
+Germany,5.49
+Japan,5.49
+Slovakia,5.49
+Austria,5.50
+Norway,5.50
+Australia,5.51
+Ireland,5.52
+Norway,5.52
+Austria,5.53
+Norway,5.53
+Austria,5.55
+"Bosnia and Herzegovina",5.55
+Australia,5.57
+Finland,5.57
+Iceland,5.58
+Ireland,5.58
+Iceland,5.59
+Denmark,5.60
+Estonia,5.61
+Spain,5.61
+Norway,5.64
+Iceland,5.65
+Japan,5.66
+Spain,5.66
+Austria,5.67
+"Bosnia and Herzegovina",5.67
+Iceland,5.67
+Turkmenistan,5.68
+Greece,5.70
+Malta,5.71
+"Czech Republic",5.73
+Norway,5.73
+Austria,5.74
+Austria,5.75
+Belarus,5.75
+Turkmenistan,5.76
+Poland,5.77
+Spain,5.78
+Estonia,5.81
+Montenegro,5.82
+Spain,5.82
+Austria,5.83
+Slovenia,5.83
+Austria,5.85
+Greece,5.85
+Iceland,5.85
+Australia,5.86
+Japan,5.88
+Montenegro,5.88
+Slovakia,5.88
+Austria,5.89
+Croatia,5.89
+Spain,5.91
+Austria,5.92
+"Bosnia and Herzegovina",5.93
+Australia,5.94
+Slovenia,5.94
+Austria,5.95
+Greece,5.96
+Australia,5.97
+Germany,5.97
+Norway,5.97
+Austria,5.98
+Spain,5.98
+Australia,5.99
+Seychelles,5.99
+Canada,6.00
+Iceland,6.00
+Japan,6.01
+Austria,6.04
+Iceland,6.04
+Slovenia,6.04
+Spain,6.04
+Austria,6.06
+Kuwait,6.07
+"South Korea",6.08
+Croatia,6.09
+Montenegro,6.09
+Norway,6.09
+Slovenia,6.09
+Finland,6.10
+Montenegro,6.11
+Estonia,6.12
+Malta,6.12
+Croatia,6.15
+Germany,6.16
+Austria,6.17
+Japan,6.17
+Montenegro,6.17
+Turkmenistan,6.17
+Iceland,6.18
+"South Korea",6.18
+Austria,6.20
+"South Korea",6.20
+Iceland,6.21
+Austria,6.24
+Qatar,6.24
+Iceland,6.25
+Singapore,6.25
+Spain,6.25
+Ireland,6.27
+Kuwait,6.28
+Finland,6.29
+Luxembourg,6.29
+Finland,6.30
+Qatar,6.30
+Denmark,6.31
+Iceland,6.31
+Italy,6.32
+"North Macedonia",6.32
+Spain,6.32
+Luxembourg,6.33
+Finland,6.34
+Poland,6.34
+Austria,6.36
+Norway,6.36
+"South Korea",6.36
+Italy,6.37
+Finland,6.41
+Luxembourg,6.41
+"South Korea",6.41
+Croatia,6.42
+Austria,6.43
+"Bosnia and Herzegovina",6.43
+Greece,6.43
+"South Korea",6.43
+Spain,6.43
+Spain,6.44
+Finland,6.45
+Germany,6.45
+Ireland,6.46
+Italy,6.46
+Norway,6.46
+Montenegro,6.47
+Germany,6.49
+Iceland,6.49
+Ireland,6.49
+Luxembourg,6.49
+"Czech Republic",6.50
+Italy,6.50
+Denmark,6.52
+Finland,6.52
+Germany,6.52
+Qatar,6.52
+Estonia,6.54
+Finland,6.54
+Finland,6.55
+Ireland,6.55
+"Czech Republic",6.57
+Japan,6.57
+Malta,6.57
+Canada,6.59
+Finland,6.59
+Kuwait,6.60
+Finland,6.61
+Greece,6.61
+Slovakia,6.61
+Denmark,6.63
+Luxembourg,6.63
+Norway,6.63
+Spain,6.63
+Denmark,6.65
+Malta,6.65
+Turkmenistan,6.65
+Albania,6.66
+Norway,6.66
+Singapore,6.67
+Albania,6.69
+Australia,6.69
+Finland,6.69
+Singapore,6.72
+Bulgaria,6.73
+Iceland,6.73
+Italy,6.73
+Luxembourg,6.73
+Finland,6.75
+Iceland,6.76
+Italy,6.76
+Italy,6.78
+Kuwait,6.78
+Kuwait,6.79
+Finland,6.80
+Denmark,6.82
+Seychelles,6.82
+"Czech Republic",6.83
+Italy,6.84
+Slovenia,6.84
+Finland,6.85
+Kuwait,6.85
+Germany,6.87
+Albania,6.88
+"Czech Republic",6.88
+Iceland,6.88
+Canada,6.89
+Norway,6.89
+"Bosnia and Herzegovina",6.90
+Canada,6.90
+Denmark,6.90
+"North Macedonia",6.91
+Luxembourg,6.92
+Germany,6.93
+Italy,6.93
+Canada,6.95
+Norway,6.95
+Poland,6.95
+"South Korea",6.95
+Luxembourg,6.96
+Slovenia,6.96
+Montenegro,6.97
+Norway,6.98
+Finland,6.99
+Albania,7.01
+Canada,7.01
+Finland,7.01
+Singapore,7.01
+Canada,7.02
+Finland,7.02
+Bulgaria,7.03
+Ireland,7.03
+"New Zealand",7.03
+Finland,7.04
+Ireland,7.04
+Croatia,7.05
+Denmark,7.05
+Finland,7.05
+Singapore,7.05
+Italy,7.07
+Bulgaria,7.09
+Greece,7.10
+Kuwait,7.10
+Estonia,7.12
+Ireland,7.14
+Canada,7.15
+Bulgaria,7.16
+Germany,7.16
+"North Macedonia",7.16
+Bulgaria,7.17
+Germany,7.17
+Kuwait,7.17
+Australia,7.18
+Japan,7.18
+Montenegro,7.19
+Qatar,7.20
+Albania,7.22
+Malta,7.22
+"New Zealand",7.22
+Croatia,7.24
+Italy,7.24
+Germany,7.25
+Slovakia,7.25
+Finland,7.26
+Germany,7.27
+Finland,7.29
+Greece,7.29
+Montenegro,7.29
+Germany,7.31
+Finland,7.32
+Japan,7.32
+Greece,7.33
+Turkmenistan,7.33
+Finland,7.34
+Kuwait,7.34
+Finland,7.35
+Lithuania,7.36
+"New Zealand",7.39
+"Bosnia and Herzegovina",7.40
+Bulgaria,7.40
+Denmark,7.42
+Ireland,7.42
+Montenegro,7.43
+Slovakia,7.44
+Russia,7.45
+Singapore,7.45
+Bulgaria,7.46
+Canada,7.46
+Finland,7.46
+Australia,7.47
+Bulgaria,7.50
+Germany,7.50
+Qatar,7.50
+"Bosnia and Herzegovina",7.54
+Bulgaria,7.55
+Estonia,7.55
+France,7.55
+Singapore,7.55
+"Bosnia and Herzegovina",7.56
+Singapore,7.56
+Japan,7.58
+Norway,7.58
+Ireland,7.59
+France,7.60
+Qatar,7.61
+Estonia,7.62
+"Czech Republic",7.63
+Slovakia,7.63
+Turkmenistan,7.63
+Canada,7.64
+France,7.64
+Malta,7.64
+Montenegro,7.64
+Greece,7.65
+Denmark,7.66
+Finland,7.67
+"Bosnia and Herzegovina",7.69
+Slovenia,7.69
+France,7.73
+Japan,7.73
+Finland,7.74
+Italy,7.75
+"North Macedonia",7.78
+Poland,7.78
+Australia,7.79
+Albania,7.80
+Austria,7.80
+Canada,7.80
+France,7.80
+"Bosnia and Herzegovina",7.81
+Finland,7.81
+"New Zealand",7.81
+Lithuania,7.85
+"New Zealand",7.86
+Australia,7.88
+"New Zealand",7.89
+Singapore,7.89
+Italy,7.90
+France,7.91
+Ireland,7.91
+Lithuania,7.93
+Croatia,7.98
+"Czech Republic",7.98
+Ireland,7.98
+"New Zealand",7.98
+Germany,8.00
+Australia,8.01
+Australia,8.02
+"Czech Republic",8.03
+Denmark,8.03
+Lithuania,8.03
+Lithuania,8.04
+Albania,8.05
+Austria,8.05
+Austria,8.07
+Belarus,8.07
+Montenegro,8.08
+Australia,8.09
+"North Macedonia",8.09
+Montenegro,8.10
+Estonia,8.11
+"South Korea",8.12
+Lithuania,8.14
+Canada,8.17
+Japan,8.17
+Denmark,8.20
+Seychelles,8.20
+"Bosnia and Herzegovina",8.21
+Denmark,8.21
+Seychelles,8.21
+Canada,8.22
+Bulgaria,8.24
+"Czech Republic",8.24
+"South Korea",8.24
+Australia,8.26
+Kuwait,8.27
+Luxembourg,8.27
+Albania,8.28
+Ireland,8.28
+Luxembourg,8.28
+Austria,8.29
+Slovakia,8.29
+"Bosnia and Herzegovina",8.30
+Singapore,8.31
+Germany,8.32
+Finland,8.34
+Germany,8.34
+"United Arab Emirates",8.34
+Singapore,8.35
+Austria,8.36
+Montenegro,8.36
+Singapore,8.37
+Austria,8.38
+Australia,8.40
+Montenegro,8.40
+Malta,8.41
+Lithuania,8.42
+France,8.43
+Ireland,8.45
+Luxembourg,8.45
+Russia,8.47
+Luxembourg,8.48
+Slovenia,8.48
+Qatar,8.50
+Germany,8.51
+Albania,8.52
+Finland,8.53
+Japan,8.53
+Australia,8.54
+Slovakia,8.54
+Slovakia,8.55
+Lithuania,8.56
+"United Arab Emirates",8.59
+"United Arab Emirates",8.60
+Ireland,8.61
+Slovakia,8.61
+Ireland,8.63
+Canada,8.64
+Germany,8.64
+"New Zealand",8.65
+Lithuania,8.66
+Croatia,8.67
+France,8.68
+Denmark,8.69
+Portugal,8.69
+Lithuania,8.70
+Australia,8.71
+Portugal,8.73
+Russia,8.75
+Croatia,8.76
+Russia,8.78
+Slovenia,8.78
+Australia,8.79
+France,8.79
+Portugal,8.79
+Slovenia,8.79
+Italy,8.80
+"United Arab Emirates",8.80
+Denmark,8.81
+France,8.81
+Portugal,8.81
+Turkmenistan,8.83
+France,8.88
+"North Macedonia",8.88
+"South Korea",8.90
+Poland,8.91
+Austria,8.93
+Canada,8.93
+Australia,8.96
+Portugal,8.96
+France,8.97
+Portugal,9.00
+Croatia,9.01
+Malta,9.01
+Slovakia,9.01
+Montenegro,9.02
+Estonia,9.04
+"United Arab Emirates",9.05
+Portugal,9.07
+Slovakia,9.07
+"North Macedonia",9.08
+Albania,9.10
+Germany,9.10
+Slovakia,9.10
+Ireland,9.12
+Montenegro,9.12
+"South Korea",9.12
+Bulgaria,9.14
+"Bosnia and Herzegovina",9.15
+"United Arab Emirates",9.16
+Portugal,9.17
+Kuwait,9.18
+France,9.20
+Croatia,9.23
+Luxembourg,9.23
+Slovenia,9.24
+Malta,9.25
+France,9.26
+Luxembourg,9.26
+Ukraine,9.26
+Japan,9.27
+Canada,9.30
+Ireland,9.30
+Portugal,9.30
+France,9.31
+Ireland,9.32
+France,9.34
+"United Arab Emirates",9.34
+Australia,9.35
+Slovakia,9.35
+France,9.36
+Slovakia,9.37
+Italy,9.38
+Kuwait,9.38
+Slovakia,9.38
+Montenegro,9.39
+"United Arab Emirates",9.39
+Poland,9.40
+Montenegro,9.41
+"South Korea",9.41
+Montenegro,9.43
+"United Arab Emirates",9.43
+"United Arab Emirates",9.46
+Montenegro,9.47
+Austria,9.49
+Portugal,9.49
+"United Arab Emirates",9.51
+Portugal,9.54
+"New Zealand",9.55
+Slovenia,9.56
+"New Zealand",9.58
+"South Korea",9.60
+Kuwait,9.61
+Ireland,9.62
+Montenegro,9.62
+Malta,9.63
+Denmark,9.65
+Japan,9.68
+Lithuania,9.68
+Kuwait,9.71
+Croatia,9.72
+Germany,9.73
+Albania,9.74
+Kuwait,9.75
+France,9.76
+Slovakia,9.77
+Italy,9.78
+France,9.79
+Ireland,9.80
+Kuwait,9.80
+Canada,9.82
+Kuwait,9.82
+Portugal,9.83
+Austria,9.84
+France,9.84
+Kuwait,9.85
+Qatar,9.86
+Russia,9.87
+Slovakia,9.87
+Denmark,9.88
+Ireland,9.89
+Kuwait,9.89
+"New Zealand",9.89
+Portugal,9.90
+Lithuania,9.93
+Bulgaria,9.94
+Kuwait,9.94
+Ireland,9.96
+Japan,9.96
+Kuwait,9.98
+Estonia,9.99
+"New Zealand",10.01
+Ireland,10.02
+Poland,10.02
+"United States of America",10.04
+Germany,10.05
+"Bosnia and Herzegovina",10.06
+Slovenia,10.06
+Italy,10.07
+Kuwait,10.07
+Qatar,10.07
+Romania,10.07
+Qatar,10.09
+"United Arab Emirates",10.09
+"South Korea",10.10
+France,10.11
+Slovakia,10.12
+Croatia,10.13
+Japan,10.13
+Ireland,10.14
+Slovakia,10.14
+Kuwait,10.16
+Germany,10.18
+"New Zealand",10.18
+Serbia,10.18
+Albania,10.20
+"New Zealand",10.23
+"New Zealand",10.26
+Japan,10.27
+Luxembourg,10.27
+"United States of America",10.27
+Bulgaria,10.30
+"United States of America",10.30
+Germany,10.31
+Turkmenistan,10.31
+Ukraine,10.31
+Denmark,10.32
+Luxembourg,10.32
+Portugal,10.35
+"New Zealand",10.36
+Romania,10.36
+Kuwait,10.37
+Seychelles,10.37
+Bulgaria,10.38
+Canada,10.38
+Portugal,10.40
+Montenegro,10.41
+"New Zealand",10.41
+Denmark,10.42
+"United States of America",10.43
+Ireland,10.44
+Ireland,10.45
+Ireland,10.47
+Luxembourg,10.47
+"North Macedonia",10.47
+Russia,10.47
+Serbia,10.47
+Malta,10.48
+Italy,10.49
+Ukraine,10.51
+Germany,10.52
+Croatia,10.53
+Montenegro,10.53
+Austria,10.54
+Luxembourg,10.55
+Portugal,10.55
+Canada,10.56
+Slovakia,10.56
+Slovenia,10.57
+"Czech Republic",10.58
+Canada,10.59
+Denmark,10.59
+"North Macedonia",10.59
+France,10.62
+Albania,10.63
+Croatia,10.64
+Canada,10.66
+Denmark,10.68
+Luxembourg,10.68
+Montenegro,10.69
+Poland,10.70
+Luxembourg,10.71
+"United States of America",10.73
+Albania,10.77
+Belarus,10.77
+Denmark,10.77
+Malta,10.79
+"New Zealand",10.79
+"United States of America",10.79
+Austria,10.80
+Belarus,10.80
+Croatia,10.81
+Slovakia,10.81
+Portugal,10.82
+Slovakia,10.82
+"United States of America",10.82
+Albania,10.83
+Croatia,10.83
+Singapore,10.83
+Croatia,10.84
+Ireland,10.84
+Croatia,10.85
+Ireland,10.86
+Russia,10.87
+Croatia,10.89
+Luxembourg,10.89
+Luxembourg,10.90
+"United States of America",10.90
+Croatia,10.91
+Estonia,10.91
+Japan,10.93
+Luxembourg,10.93
+"United States of America",10.93
+Canada,10.97
+Portugal,10.98
+Canada,11.00
+Slovakia,11.00
+Canada,11.01
+"United States of America",11.01
+"New Zealand",11.02
+Kuwait,11.04
+Malta,11.04
+Croatia,11.05
+"United Arab Emirates",11.05
+"United States of America",11.05
+Ireland,11.06
+"United States of America",11.07
+Croatia,11.08
+Lithuania,11.09
+"New Zealand",11.09
+Turkmenistan,11.10
+Ukraine,11.11
+"United States of America",11.12
+Estonia,11.13
+Luxembourg,11.13
+Canada,11.16
+Portugal,11.17
+"South Korea",11.18
+Montenegro,11.19
+Luxembourg,11.21
+Denmark,11.23
+Japan,11.23
+Kuwait,11.23
+"Czech Republic",11.24
+Kuwait,11.24
+Singapore,11.26
+Luxembourg,11.27
+Ukraine,11.27
+Croatia,11.28
+Montenegro,11.28
+Seychelles,11.30
+Denmark,11.31
+"Bosnia and Herzegovina",11.33
+Canada,11.33
+Croatia,11.33
+Portugal,11.33
+"United States of America",11.33
+Portugal,11.34
+Lithuania,11.37
+Luxembourg,11.39
+Portugal,11.40
+Romania,11.40
+Luxembourg,11.41
+Qatar,11.45
+"United States of America",11.46
+"Bosnia and Herzegovina",11.47
+Denmark,11.47
+Luxembourg,11.47
+Serbia,11.47
+Canada,11.48
+Montenegro,11.48
+"New Zealand",11.51
+Luxembourg,11.55
+"North Macedonia",11.55
+Croatia,11.61
+Portugal,11.63
+Italy,11.64
+Montenegro,11.65
+Canada,11.66
+Denmark,11.67
+Canada,11.68
+Japan,11.68
+France,11.69
+Portugal,11.73
+Singapore,11.73
+Luxembourg,11.74
+Poland,11.75
+Portugal,11.80
+Croatia,11.81
+Bulgaria,11.82
+Canada,11.83
+"United States of America",11.83
+Kuwait,11.84
+Canada,11.86
+Malta,11.86
+Kuwait,11.87
+Slovenia,11.93
+Canada,11.94
+"United Arab Emirates",11.95
+Luxembourg,11.99
+Serbia,12.01
+Japan,12.02
+Lithuania,12.03
+Kuwait,12.04
+Kuwait,12.10
+Malta,12.10
+Moldova,12.10
+Serbia,12.11
+Albania,12.12
+Kuwait,12.15
+Ukraine,12.15
+Italy,12.17
+Qatar,12.20
+Malta,12.21
+Portugal,12.23
+"Bosnia and Herzegovina",12.24
+Russia,12.25
+Moldova,12.26
+Luxembourg,12.28
+"New Zealand",12.28

@@ -1,0 +1,198 @@
+Country,Region,Birth_Attendance_Rate,Year
+Albania,Europe,100.00,2022
+Lithuania,Europe,100.00,2022
+Oman,"Eastern Mediterranean",100.00,2022
+Albania,Europe,100.00,2021
+Lithuania,Europe,100.00,2021
+"North Macedonia",Europe,100.00,2021
+Oman,"Eastern Mediterranean",100.00,2021
+Qatar,"Eastern Mediterranean",100.00,2021
+"South Korea","Western Pacific",100.00,2021
+"Saint Lucia",Americas,100.00,2021
+Suriname,Americas,100.00,2021
+"United Arab Emirates","Eastern Mediterranean",100.00,2021
+Uruguay,Americas,100.00,2021
+Albania,Europe,100.00,2020
+Grenada,Americas,100.00,2020
+Kyrgyzstan,Europe,100.00,2020
+Lithuania,Europe,100.00,2020
+"North Macedonia",Europe,100.00,2020
+Oman,"Eastern Mediterranean",100.00,2020
+Qatar,"Eastern Mediterranean",100.00,2020
+"Saint Lucia",Americas,100.00,2020
+"United Arab Emirates","Eastern Mediterranean",100.00,2020
+Uruguay,Americas,100.00,2020
+Uzbekistan,Europe,100.00,2020
+Jordan,"Eastern Mediterranean",99.90,2023
+Azerbaijan,Europe,99.90,2022
+Belarus,Europe,99.90,2022
+Greece,Europe,99.90,2022
+Spain,Europe,99.90,2022
+"United Arab Emirates","Eastern Mediterranean",99.90,2022
+Azerbaijan,Europe,99.90,2021
+Belarus,Europe,99.90,2021
+"Bosnia and Herzegovina",Europe,99.90,2021
+Cyprus,Europe,99.90,2021
+Greece,Europe,99.90,2021
+Kuwait,"Eastern Mediterranean",99.90,2021
+Spain,Europe,99.90,2021
+Turkmenistan,Europe,99.90,2021
+Azerbaijan,Europe,99.90,2020
+Belarus,Europe,99.90,2020
+"Bosnia and Herzegovina",Europe,99.90,2020
+Cyprus,Europe,99.90,2020
+Greece,Europe,99.90,2020
+Japan,"Western Pacific",99.90,2020
+Kuwait,"Eastern Mediterranean",99.90,2020
+Spain,Europe,99.90,2020
+Malta,Europe,99.89,2020
+"Saudi Arabia","Eastern Mediterranean",99.80,2023
+Japan,"Western Pacific",99.80,2022
+Malaysia,"Western Pacific",99.80,2022
+Malta,Europe,99.80,2022
+Seychelles,Africa,99.80,2022
+Botswana,Africa,99.80,2021
+Fiji,"Western Pacific",99.80,2021
+Georgia,Europe,99.80,2021
+Jamaica,Americas,99.80,2021
+Japan,"Western Pacific",99.80,2021
+Malta,Europe,99.80,2021
+Botswana,Africa,99.80,2020
+Chile,Americas,99.80,2020
+Georgia,Europe,99.80,2020
+Italy,Europe,99.80,2020
+Jamaica,Americas,99.80,2020
+Georgia,Europe,99.70,2022
+Moldova,Europe,99.70,2022
+Russia,Europe,99.70,2022
+Turkmenistan,Europe,99.70,2022
+Mauritius,Africa,99.70,2021
+Russia,Europe,99.70,2021
+Brunei,"Western Pacific",99.70,2020
+Mauritius,Africa,99.70,2020
+Poland,Europe,99.70,2020
+Palestine,"Eastern Mediterranean",99.70,2020
+Poland,Europe,99.60,2022
+Thailand,"South-East Asia",99.60,2022
+Brunei,"Western Pacific",99.60,2021
+Malaysia,"Western Pacific",99.60,2021
+Poland,Europe,99.60,2021
+Moldova,Europe,99.60,2021
+Singapore,"Western Pacific",99.60,2021
+Estonia,Europe,99.60,2020
+Finland,Europe,99.60,2020
+Ireland,Europe,99.60,2020
+Moldova,Europe,99.60,2020
+Russia,Europe,99.60,2020
+Singapore,"Western Pacific",99.60,2020
+Singapore,"Western Pacific",99.50,2022
+Finland,Europe,99.50,2021
+Seychelles,Africa,99.50,2020
+Italy,Europe,99.40,2021
+Bhutan,"South-East Asia",99.30,2020
+"El Salvador",Americas,99.30,2020
+Kuwait,"Eastern Mediterranean",99.20,2022
+Norway,Europe,99.20,2021
+"Costa Rica",Americas,99.20,2020
+Norway,Europe,99.20,2020
+"United States of America",Americas,99.13,2020
+Estonia,Europe,99.10,2022
+Norway,Europe,99.10,2022
+Iran,"Eastern Mediterranean",99.00,2023
+Uzbekistan,Europe,99.00,2022
+Estonia,Europe,99.00,2021
+"Saint Vincent and the Grenadines",Americas,99.00,2021
+Seychelles,Africa,99.00,2021
+"Antigua and Barbuda",Americas,99.00,2020
+Bahamas,Americas,99.00,2020
+Bhutan,"South-East Asia",98.90,2021
+"Costa Rica",Americas,98.80,2021
+Australia,"Western Pacific",98.80,2020
+Argentina,Americas,98.80,2020
+Cambodia,"Western Pacific",98.70,2022
+Australia,"Western Pacific",98.70,2021
+"United States of America",Americas,98.60,2021
+Portugal,Europe,98.60,2020
+Barbados,Americas,98.40,2020
+Brazil,Americas,98.40,2020
+Brazil,Americas,98.20,2021
+Bahrain,"Eastern Mediterranean",98.20,2020
+France,Europe,98.20,2020
+Slovakia,Europe,98.20,2020
+Austria,Europe,98.10,2022
+Latvia,Europe,98.10,2022
+Slovakia,Europe,98.10,2022
+"El Salvador",Americas,98.10,2021
+Latvia,Europe,98.10,2021
+Austria,Europe,98.10,2020
+Latvia,Europe,98.10,2020
+"Saint Vincent and the Grenadines",Americas,98.10,2020
+Austria,Europe,98.00,2021
+Slovakia,Europe,98.00,2021
+Colombia,Americas,97.80,2020
+Canada,Americas,97.70,2020
+France,Europe,97.60,2023
+Canada,Americas,97.60,2021
+Portugal,Europe,97.60,2021
+Guyana,Americas,97.60,2020
+Colombia,Americas,97.50,2021
+Iceland,Europe,97.40,2020
+Portugal,Europe,97.30,2022
+France,Europe,97.30,2021
+Comoros,Africa,97.20,2022
+Egypt,"Eastern Mediterranean",97.10,2021
+Denmark,Europe,96.60,2020
+Denmark,Europe,96.40,2022
+Denmark,Europe,96.40,2021
+Malawi,Africa,96.40,2020
+Germany,Europe,96.30,2021
+Ecuador,Americas,96.30,2020
+Germany,Europe,96.20,2020
+"Burkina Faso",Africa,95.80,2021
+"New Zealand","Western Pacific",95.80,2021
+Indonesia,"South-East Asia",95.70,2023
+Peru,Americas,95.70,2020
+Gabon,Africa,95.20,2021
+Panama,Americas,95.00,2020
+Peru,Americas,94.90,2021
+Romania,Europe,94.70,2021
+Belize,Americas,94.60,2020
+Bulgaria,Europe,94.60,2020
+Bulgaria,Europe,94.50,2021
+"New Zealand","Western Pacific",94.50,2020
+Bolivia,Americas,94.30,2021
+Rwanda,Africa,94.20,2020
+Eswatini,Africa,93.40,2022
+Romania,Europe,92.70,2020
+Panama,Americas,92.50,2021
+Paraguay,Americas,91.20,2021
+Paraguay,Americas,91.20,2020
+Uganda,Africa,91.00,2022
+Philippines,"Western Pacific",89.60,2022
+India,"South-East Asia",89.40,2021
+Kenya,Africa,89.30,2022
+Samoa,"Western Pacific",88.90,2020
+Mexico,Americas,88.70,2020
+Ghana,Africa,87.60,2023
+Burundi,Africa,87.40,2020
+Mexico,Americas,85.10,2021
+Tanzania,Africa,85.00,2022
+Liberia,Africa,84.40,2020
+Gambia,Africa,83.80,2020
+Benin,Africa,80.80,2022
+Nepal,"South-East Asia",80.10,2022
+Burundi,Africa,76.50,2021
+Burundi,Africa,75.20,2022
+Bolivia,Americas,73.60,2020
+Bolivia,Americas,71.50,2022
+Mauritania,Africa,70.40,2021
+Bangladesh,"South-East Asia",69.80,2022
+Pakistan,"Eastern Mediterranean",68.00,2020
+Afghanistan,"Eastern Mediterranean",67.50,2023
+Mozambique,Africa,67.50,2023
+Afghanistan,"Eastern Mediterranean",61.80,2020
+Yemen,"Eastern Mediterranean",60.90,2023
+Nigeria,Africa,50.70,2022
+Madagascar,Africa,45.80,2021
+Niger,Africa,43.70,2021
+"South Sudan",Africa,39.70,2020

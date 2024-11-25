@@ -1,0 +1,1001 @@
+Country,Doctors_Per_10k,Births_Attended_By_Skilled_Personnel,Maternal_Mortality_Rate
+Afghanistan,2.54,14.30,644.27
+Afghanistan,2.54,34.30,644.27
+Afghanistan,2.54,67.50,644.27
+Afghanistan,2.54,61.80,644.27
+Afghanistan,2.54,58.80,644.27
+Afghanistan,2.54,53.40,644.27
+Afghanistan,2.54,50.50,644.27
+Afghanistan,2.54,45.20,644.27
+Afghanistan,2.54,39.90,644.27
+Afghanistan,2.54,38.60,644.27
+Afghanistan,2.54,14.30,620.41
+Afghanistan,2.54,34.30,620.41
+Afghanistan,2.54,38.60,620.41
+Afghanistan,2.54,39.90,620.41
+Afghanistan,2.54,45.20,620.41
+Afghanistan,2.54,50.50,620.41
+Afghanistan,2.54,53.40,620.41
+Afghanistan,2.54,58.80,620.41
+Afghanistan,2.54,61.80,620.41
+Afghanistan,2.54,67.50,620.41
+Afghanistan,2.54,45.20,775.69
+Afghanistan,2.54,14.30,749.82
+Afghanistan,2.54,34.30,749.82
+Afghanistan,2.54,38.60,749.82
+Afghanistan,2.54,39.90,749.82
+Afghanistan,2.54,45.20,749.82
+Afghanistan,2.54,50.50,749.82
+Afghanistan,2.54,53.40,749.82
+Afghanistan,2.54,58.80,749.82
+Afghanistan,2.54,61.80,749.82
+Afghanistan,2.54,67.50,749.82
+Afghanistan,2.54,14.30,775.69
+Afghanistan,2.54,34.30,775.69
+Afghanistan,2.54,38.60,775.69
+Afghanistan,2.54,39.90,775.69
+Afghanistan,2.54,50.50,775.69
+Afghanistan,2.54,53.40,775.69
+Afghanistan,2.54,58.80,775.69
+Afghanistan,2.54,61.80,775.69
+Afghanistan,2.54,67.50,775.69
+Afghanistan,2.54,14.30,883.71
+Afghanistan,2.54,34.30,883.71
+Afghanistan,2.54,38.60,883.71
+Afghanistan,2.54,39.90,883.71
+Afghanistan,2.54,45.20,883.71
+Afghanistan,2.54,50.50,883.71
+Afghanistan,2.54,53.40,883.71
+Afghanistan,2.54,58.80,883.71
+Afghanistan,2.54,61.80,883.71
+Afghanistan,2.54,67.50,883.71
+Afghanistan,2.54,67.50,898.67
+Afghanistan,2.54,61.80,898.67
+Afghanistan,2.54,58.80,898.67
+Afghanistan,2.54,53.40,898.67
+Afghanistan,2.54,50.50,898.67
+Afghanistan,2.54,45.20,898.67
+Afghanistan,2.54,39.90,898.67
+Afghanistan,2.54,38.60,898.67
+Afghanistan,2.54,34.30,898.67
+Afghanistan,2.54,14.30,898.67
+Afghanistan,2.54,14.30,785.35
+Afghanistan,2.54,34.30,785.35
+Afghanistan,2.54,38.60,785.35
+Afghanistan,2.54,39.90,785.35
+Afghanistan,2.54,45.20,785.35
+Afghanistan,2.54,50.50,785.35
+Afghanistan,2.54,53.40,785.35
+Afghanistan,2.54,58.80,785.35
+Afghanistan,2.54,61.80,785.35
+Afghanistan,2.54,67.50,785.35
+Afghanistan,2.54,45.20,663.43
+Afghanistan,2.54,67.50,681.81
+Afghanistan,2.54,61.80,681.81
+Afghanistan,2.54,58.80,681.81
+Afghanistan,2.54,53.40,681.81
+Afghanistan,2.54,50.50,681.81
+Afghanistan,2.54,45.20,681.81
+Afghanistan,2.54,39.90,681.81
+Afghanistan,2.54,38.60,681.81
+Afghanistan,2.54,34.30,681.81
+Afghanistan,2.54,14.30,681.81
+Afghanistan,2.54,14.30,663.43
+Afghanistan,2.54,34.30,663.43
+Afghanistan,2.54,38.60,663.43
+Afghanistan,2.54,39.90,663.43
+Afghanistan,2.54,50.50,663.43
+Afghanistan,2.54,53.40,663.43
+Afghanistan,2.54,58.80,663.43
+Afghanistan,2.54,61.80,663.43
+Afghanistan,2.54,67.50,663.43
+Afghanistan,2.54,34.30,820.69
+Afghanistan,2.54,14.30,833.48
+Afghanistan,2.54,67.50,820.69
+Afghanistan,2.54,61.80,820.69
+Afghanistan,2.54,58.80,820.69
+Afghanistan,2.54,53.40,820.69
+Afghanistan,2.54,50.50,820.69
+Afghanistan,2.54,45.20,820.69
+Afghanistan,2.54,39.90,820.69
+Afghanistan,2.54,38.60,820.69
+Afghanistan,2.54,14.30,820.69
+Afghanistan,2.54,34.30,833.48
+Afghanistan,2.54,38.60,833.48
+Afghanistan,2.54,39.90,833.48
+Afghanistan,2.54,45.20,833.48
+Afghanistan,2.54,67.50,833.48
+Afghanistan,2.54,61.80,833.48
+Afghanistan,2.54,58.80,833.48
+Afghanistan,2.54,53.40,833.48
+Afghanistan,2.54,50.50,833.48
+Afghanistan,2.54,14.30,1365.29
+Afghanistan,2.54,34.30,1365.29
+Afghanistan,2.54,38.60,1365.29
+Afghanistan,2.54,39.90,1365.29
+Afghanistan,2.54,45.20,1365.29
+Afghanistan,2.54,50.50,1365.29
+Afghanistan,2.54,53.40,1365.29
+Afghanistan,2.54,58.80,1365.29
+Afghanistan,2.54,61.80,1365.29
+Afghanistan,2.54,67.50,1365.29
+Afghanistan,2.54,34.30,1375.51
+Afghanistan,2.54,38.60,1375.51
+Afghanistan,2.54,39.90,1375.51
+Afghanistan,2.54,45.20,1375.51
+Afghanistan,2.54,50.50,1375.51
+Afghanistan,2.54,53.40,1375.51
+Afghanistan,2.54,58.80,1375.51
+Afghanistan,2.54,61.80,1375.51
+Afghanistan,2.54,67.50,1375.51
+Afghanistan,2.54,14.30,1375.51
+Afghanistan,2.54,67.50,1451.59
+Afghanistan,2.54,61.80,1451.59
+Afghanistan,2.54,58.80,1451.59
+Afghanistan,2.54,53.40,1451.59
+Afghanistan,2.54,50.50,1451.59
+Afghanistan,2.54,45.20,1451.59
+Afghanistan,2.54,39.90,1451.59
+Afghanistan,2.54,38.60,1451.59
+Afghanistan,2.54,34.30,1451.59
+Afghanistan,2.54,14.30,1451.59
+Afghanistan,2.54,14.30,1392.79
+Afghanistan,2.54,34.30,1392.79
+Afghanistan,2.54,38.60,1392.79
+Afghanistan,2.54,39.90,1392.79
+Afghanistan,2.54,45.20,1392.79
+Afghanistan,2.54,50.50,1392.79
+Afghanistan,2.54,53.40,1392.79
+Afghanistan,2.54,58.80,1392.79
+Afghanistan,2.54,61.80,1392.79
+Afghanistan,2.54,67.50,1392.79
+Afghanistan,2.54,14.30,1910.34
+Afghanistan,2.54,34.30,1910.34
+Afghanistan,2.54,38.60,1910.34
+Afghanistan,2.54,39.90,1910.34
+Afghanistan,2.54,45.20,1910.34
+Afghanistan,2.54,50.50,1910.34
+Afghanistan,2.54,53.40,1910.34
+Afghanistan,2.54,58.80,1910.34
+Afghanistan,2.54,61.80,1910.34
+Afghanistan,2.54,67.50,1910.34
+Afghanistan,2.54,34.30,1602.94
+Afghanistan,2.54,38.60,1602.94
+Afghanistan,2.54,39.90,1602.94
+Afghanistan,2.54,45.20,1602.94
+Afghanistan,2.54,50.50,1602.94
+Afghanistan,2.54,53.40,1602.94
+Afghanistan,2.54,58.80,1602.94
+Afghanistan,2.54,61.80,1602.94
+Afghanistan,2.54,67.50,1602.94
+Afghanistan,2.54,14.30,1602.94
+Afghanistan,2.54,14.30,1382.73
+Afghanistan,2.54,34.30,1382.73
+Afghanistan,2.54,38.60,1382.73
+Afghanistan,2.54,39.90,1382.73
+Afghanistan,2.54,67.50,1382.73
+Afghanistan,2.54,61.80,1382.73
+Afghanistan,2.54,58.80,1382.73
+Afghanistan,2.54,53.40,1382.73
+Afghanistan,2.54,50.50,1382.73
+Afghanistan,2.54,45.20,1382.73
+Afghanistan,2.54,14.30,1377.86
+Afghanistan,2.54,34.30,1377.86
+Afghanistan,2.54,38.60,1377.86
+Afghanistan,2.54,39.90,1377.86
+Afghanistan,2.54,45.20,1377.86
+Afghanistan,2.54,50.50,1377.86
+Afghanistan,2.54,53.40,1377.86
+Afghanistan,2.54,67.50,1377.86
+Afghanistan,2.54,61.80,1377.86
+Afghanistan,2.54,58.80,1377.86
+Afghanistan,2.54,14.30,1400.84
+Afghanistan,2.54,14.30,1375.09
+Afghanistan,2.54,34.30,1375.09
+Afghanistan,2.54,38.60,1375.09
+Afghanistan,2.54,39.90,1375.09
+Afghanistan,2.54,45.20,1375.09
+Afghanistan,2.54,50.50,1375.09
+Afghanistan,2.54,53.40,1375.09
+Afghanistan,2.54,58.80,1375.09
+Afghanistan,2.54,61.80,1375.09
+Afghanistan,2.54,67.50,1375.09
+Afghanistan,2.54,38.60,1400.84
+Afghanistan,2.54,39.90,1400.84
+Afghanistan,2.54,45.20,1400.84
+Afghanistan,2.54,50.50,1400.84
+Afghanistan,2.54,53.40,1400.84
+Afghanistan,2.54,58.80,1400.84
+Afghanistan,2.54,61.80,1400.84
+Afghanistan,2.54,67.50,1400.84
+Afghanistan,2.54,34.30,1400.84
+Afghanistan,2.54,14.30,1413.93
+Afghanistan,2.54,34.30,1413.93
+Afghanistan,2.54,38.60,1413.93
+Afghanistan,2.54,39.90,1413.93
+Afghanistan,2.54,45.20,1413.93
+Afghanistan,2.54,50.50,1413.93
+Afghanistan,2.54,53.40,1413.93
+Afghanistan,2.54,58.80,1413.93
+Afghanistan,2.54,61.80,1413.93
+Afghanistan,2.54,67.50,1413.93
+Afghanistan,2.54,67.50,1586.72
+Afghanistan,2.54,61.80,1586.72
+Afghanistan,2.54,58.80,1586.72
+Afghanistan,2.54,53.40,1586.72
+Afghanistan,2.54,50.50,1586.72
+Afghanistan,2.54,45.20,1586.72
+Afghanistan,2.54,39.90,1586.72
+Afghanistan,2.54,38.60,1586.72
+Afghanistan,2.54,34.30,1586.72
+Afghanistan,2.54,14.30,1586.72
+Afghanistan,2.54,14.30,1368.82
+Afghanistan,2.54,34.30,1368.82
+Afghanistan,2.54,38.60,1368.82
+Afghanistan,2.54,39.90,1368.82
+Afghanistan,2.54,45.20,1368.82
+Afghanistan,2.54,50.50,1368.82
+Afghanistan,2.54,53.40,1368.82
+Afghanistan,2.54,58.80,1368.82
+Afghanistan,2.54,61.80,1368.82
+Afghanistan,2.54,67.50,1368.82
+Afghanistan,2.54,14.30,962.32
+Afghanistan,2.54,34.30,962.32
+Afghanistan,2.54,38.60,962.32
+Afghanistan,2.54,39.90,962.32
+Afghanistan,2.54,45.20,962.32
+Afghanistan,2.54,50.50,962.32
+Afghanistan,2.54,53.40,962.32
+Afghanistan,2.54,58.80,962.32
+Afghanistan,2.54,61.80,962.32
+Afghanistan,2.54,67.50,962.32
+Afghanistan,2.54,67.50,913.04
+Afghanistan,2.54,61.80,913.04
+Afghanistan,2.54,58.80,913.04
+Afghanistan,2.54,53.40,913.04
+Afghanistan,2.54,50.50,913.04
+Afghanistan,2.54,45.20,913.04
+Afghanistan,2.54,39.90,913.04
+Afghanistan,2.54,38.60,913.04
+Afghanistan,2.54,14.30,913.04
+Afghanistan,2.54,34.30,913.04
+Afghanistan,2.54,14.30,1114.89
+Afghanistan,2.54,34.30,1114.89
+Afghanistan,2.54,38.60,1114.89
+Afghanistan,2.54,39.90,1114.89
+Afghanistan,2.54,45.20,1114.89
+Afghanistan,2.54,50.50,1114.89
+Afghanistan,2.54,53.40,1114.89
+Afghanistan,2.54,58.80,1114.89
+Afghanistan,2.54,61.80,1114.89
+Afghanistan,2.54,67.50,1114.89
+Afghanistan,2.54,34.30,1196.09
+Afghanistan,2.54,38.60,1196.09
+Afghanistan,2.54,39.90,1196.09
+Afghanistan,2.54,45.20,1196.09
+Afghanistan,2.54,50.50,1196.09
+Afghanistan,2.54,53.40,1196.09
+Afghanistan,2.54,58.80,1196.09
+Afghanistan,2.54,61.80,1196.09
+Afghanistan,2.54,67.50,1196.09
+Afghanistan,2.54,14.30,1196.09
+Afghanistan,2.54,34.30,1359.22
+Afghanistan,2.54,34.30,1459.28
+Afghanistan,2.54,38.60,1459.28
+Afghanistan,2.54,39.90,1459.28
+Afghanistan,2.54,45.20,1459.28
+Afghanistan,2.54,50.50,1459.28
+Afghanistan,2.54,53.40,1459.28
+Afghanistan,2.54,58.80,1459.28
+Afghanistan,2.54,61.80,1459.28
+Afghanistan,2.54,67.50,1459.28
+Afghanistan,2.54,14.30,1459.28
+Afghanistan,2.54,14.30,1359.22
+Afghanistan,2.54,38.60,1359.22
+Afghanistan,2.54,39.90,1359.22
+Afghanistan,2.54,45.20,1359.22
+Afghanistan,2.54,50.50,1359.22
+Afghanistan,2.54,53.40,1359.22
+Afghanistan,2.54,58.80,1359.22
+Afghanistan,2.54,61.80,1359.22
+Afghanistan,2.54,67.50,1359.22
+Afghanistan,2.54,14.30,1277.31
+Afghanistan,2.54,34.30,1277.31
+Afghanistan,2.54,38.60,1277.31
+Afghanistan,2.54,39.90,1277.31
+Afghanistan,2.54,45.20,1277.31
+Afghanistan,2.54,50.50,1277.31
+Afghanistan,2.54,53.40,1277.31
+Afghanistan,2.54,58.80,1277.31
+Afghanistan,2.54,61.80,1277.31
+Afghanistan,2.54,67.50,1277.31
+Afghanistan,2.54,34.30,1273.43
+Afghanistan,2.54,38.60,1273.43
+Afghanistan,2.54,39.90,1273.43
+Afghanistan,2.54,45.20,1273.43
+Afghanistan,2.54,50.50,1273.43
+Afghanistan,2.54,53.40,1273.43
+Afghanistan,2.54,58.80,1273.43
+Afghanistan,2.54,61.80,1273.43
+Afghanistan,2.54,67.50,1273.43
+Afghanistan,2.54,14.30,1273.43
+Afghanistan,2.54,14.30,1023.50
+Afghanistan,2.54,34.30,1023.50
+Afghanistan,2.54,38.60,1023.50
+Afghanistan,2.54,39.90,1023.50
+Afghanistan,2.54,45.20,1023.50
+Afghanistan,2.54,50.50,1023.50
+Afghanistan,2.54,53.40,1023.50
+Afghanistan,2.54,58.80,1023.50
+Afghanistan,2.54,61.80,1023.50
+Afghanistan,2.54,67.50,1023.50
+Afghanistan,2.54,14.30,1346.14
+Afghanistan,2.54,34.30,1346.14
+Afghanistan,2.54,38.60,1346.14
+Afghanistan,2.54,39.90,1346.14
+Afghanistan,2.54,45.20,1346.14
+Afghanistan,2.54,50.50,1346.14
+Afghanistan,2.54,53.40,1346.14
+Afghanistan,2.54,58.80,1346.14
+Afghanistan,2.54,61.80,1346.14
+Afghanistan,2.54,67.50,1346.14
+Afghanistan,2.54,14.30,1102.81
+Afghanistan,2.54,34.30,1102.81
+Afghanistan,2.54,38.60,1102.81
+Afghanistan,2.54,39.90,1102.81
+Afghanistan,2.54,45.20,1102.81
+Afghanistan,2.54,50.50,1102.81
+Afghanistan,2.54,53.40,1102.81
+Afghanistan,2.54,58.80,1102.81
+Afghanistan,2.54,61.80,1102.81
+Afghanistan,2.54,67.50,1102.81
+Afghanistan,2.54,67.50,1044.40
+Afghanistan,2.54,61.80,1044.40
+Afghanistan,2.54,58.80,1044.40
+Afghanistan,2.54,53.40,1044.40
+Afghanistan,2.54,50.50,1044.40
+Afghanistan,2.54,45.20,1044.40
+Afghanistan,2.54,39.90,1044.40
+Afghanistan,2.54,38.60,1044.40
+Afghanistan,2.54,34.30,1044.40
+Afghanistan,2.54,14.30,1044.40
+Albania,18.83,99.10,10.77
+Albania,18.83,100.00,10.83
+Albania,18.83,100.00,10.83
+Albania,18.83,100.00,10.83
+Albania,18.83,99.80,10.83
+Albania,18.83,99.30,10.83
+Albania,18.83,99.80,10.83
+Albania,18.83,98.00,10.83
+Albania,18.83,99.10,10.83
+Albania,18.83,98.00,10.77
+Albania,18.83,99.80,10.77
+Albania,18.83,99.30,10.77
+Albania,18.83,99.80,10.77
+Albania,18.83,100.00,10.77
+Albania,18.83,100.00,10.77
+Albania,18.83,100.00,10.77
+Albania,18.83,100.00,14.89
+Albania,18.83,100.00,14.89
+Albania,18.83,100.00,14.89
+Albania,18.83,99.80,14.89
+Albania,18.83,99.30,14.89
+Albania,18.83,99.80,14.89
+Albania,18.83,98.00,14.89
+Albania,18.83,99.10,14.89
+Albania,18.83,99.10,15.52
+Albania,18.83,98.00,15.52
+Albania,18.83,99.80,15.52
+Albania,18.83,99.30,15.52
+Albania,18.83,99.80,15.52
+Albania,18.83,100.00,15.52
+Albania,18.83,100.00,15.52
+Albania,18.83,100.00,15.52
+Albania,18.83,100.00,9.74
+Albania,18.83,100.00,9.74
+Albania,18.83,100.00,9.74
+Albania,18.83,99.80,9.74
+Albania,18.83,99.30,9.74
+Albania,18.83,99.80,9.74
+Albania,18.83,98.00,9.74
+Albania,18.83,99.10,9.74
+Albania,18.83,99.10,9.10
+Albania,18.83,98.00,9.10
+Albania,18.83,99.80,9.10
+Albania,18.83,99.30,9.10
+Albania,18.83,99.80,9.10
+Albania,18.83,100.00,9.10
+Albania,18.83,100.00,9.10
+Albania,18.83,100.00,9.10
+Albania,18.83,98.00,12.12
+Albania,18.83,100.00,12.12
+Albania,18.83,100.00,12.12
+Albania,18.83,100.00,12.12
+Albania,18.83,99.80,12.12
+Albania,18.83,99.30,12.12
+Albania,18.83,99.80,12.12
+Albania,18.83,99.10,12.12
+Albania,18.83,100.00,10.63
+Albania,18.83,100.00,10.63
+Albania,18.83,100.00,10.63
+Albania,18.83,99.80,10.63
+Albania,18.83,99.30,10.63
+Albania,18.83,99.80,10.63
+Albania,18.83,98.00,10.63
+Albania,18.83,99.10,10.63
+Albania,18.83,99.10,14.33
+Albania,18.83,98.00,14.33
+Albania,18.83,99.80,14.33
+Albania,18.83,99.30,14.33
+Albania,18.83,99.80,14.33
+Albania,18.83,100.00,14.33
+Albania,18.83,100.00,14.33
+Albania,18.83,100.00,14.33
+Albania,18.83,99.10,12.41
+Albania,18.83,98.00,12.41
+Albania,18.83,99.80,12.41
+Albania,18.83,99.30,12.41
+Albania,18.83,99.80,12.41
+Albania,18.83,100.00,12.41
+Albania,18.83,100.00,12.41
+Albania,18.83,100.00,12.41
+Albania,18.83,99.10,12.53
+Albania,18.83,98.00,12.53
+Albania,18.83,99.80,12.53
+Albania,18.83,99.30,12.53
+Albania,18.83,99.80,12.53
+Albania,18.83,100.00,12.53
+Albania,18.83,100.00,12.53
+Albania,18.83,100.00,12.53
+Albania,18.83,99.10,10.20
+Albania,18.83,98.00,10.20
+Albania,18.83,99.80,10.20
+Albania,18.83,99.30,10.20
+Albania,18.83,99.80,10.20
+Albania,18.83,100.00,10.20
+Albania,18.83,100.00,10.20
+Albania,18.83,100.00,10.20
+Albania,18.83,99.10,7.80
+Albania,18.83,98.00,7.80
+Albania,18.83,99.80,7.80
+Albania,18.83,99.30,7.80
+Albania,18.83,99.80,7.80
+Albania,18.83,100.00,7.80
+Albania,18.83,100.00,7.80
+Albania,18.83,100.00,7.80
+Albania,18.83,99.10,7.22
+Albania,18.83,98.00,7.22
+Albania,18.83,99.80,7.22
+Albania,18.83,99.30,7.22
+Albania,18.83,99.80,7.22
+Albania,18.83,100.00,7.22
+Albania,18.83,100.00,7.22
+Albania,18.83,100.00,7.22
+Albania,18.83,99.10,8.52
+Albania,18.83,100.00,8.52
+Albania,18.83,100.00,8.52
+Albania,18.83,100.00,8.52
+Albania,18.83,99.80,8.52
+Albania,18.83,99.30,8.52
+Albania,18.83,99.80,8.52
+Albania,18.83,98.00,8.52
+Albania,18.83,99.10,8.05
+Albania,18.83,98.00,8.05
+Albania,18.83,99.80,8.05
+Albania,18.83,99.30,8.05
+Albania,18.83,99.80,8.05
+Albania,18.83,100.00,8.05
+Albania,18.83,100.00,8.05
+Albania,18.83,100.00,8.05
+Albania,18.83,99.10,5.31
+Albania,18.83,100.00,5.31
+Albania,18.83,100.00,5.31
+Albania,18.83,100.00,5.31
+Albania,18.83,99.80,5.31
+Albania,18.83,99.30,5.31
+Albania,18.83,99.80,5.31
+Albania,18.83,98.00,5.31
+Albania,18.83,99.10,8.28
+Albania,18.83,98.00,8.28
+Albania,18.83,99.80,8.28
+Albania,18.83,99.30,8.28
+Albania,18.83,100.00,8.28
+Albania,18.83,100.00,8.28
+Albania,18.83,100.00,8.28
+Albania,18.83,99.80,8.28
+Albania,18.83,99.80,6.88
+Albania,18.83,100.00,6.66
+Albania,18.83,100.00,6.66
+Albania,18.83,100.00,6.66
+Albania,18.83,99.80,6.66
+Albania,18.83,99.30,6.66
+Albania,18.83,99.80,6.66
+Albania,18.83,98.00,6.66
+Albania,18.83,99.10,6.66
+Albania,18.83,99.10,6.88
+Albania,18.83,98.00,6.88
+Albania,18.83,99.30,6.88
+Albania,18.83,99.80,6.88
+Albania,18.83,100.00,6.88
+Albania,18.83,100.00,6.88
+Albania,18.83,100.00,6.88
+Albania,18.83,99.10,6.69
+Albania,18.83,100.00,6.69
+Albania,18.83,100.00,5.43
+Albania,18.83,100.00,5.43
+Albania,18.83,100.00,5.43
+Albania,18.83,99.80,5.43
+Albania,18.83,99.30,5.43
+Albania,18.83,99.80,5.43
+Albania,18.83,98.00,5.43
+Albania,18.83,99.10,5.43
+Albania,18.83,100.00,6.69
+Albania,18.83,100.00,6.69
+Albania,18.83,99.80,6.69
+Albania,18.83,99.30,6.69
+Albania,18.83,99.80,6.69
+Albania,18.83,98.00,6.69
+Albania,18.83,100.00,7.01
+Albania,18.83,99.10,7.01
+Albania,18.83,98.00,7.01
+Albania,18.83,99.80,7.01
+Albania,18.83,99.30,7.01
+Albania,18.83,99.80,7.01
+Albania,18.83,100.00,7.01
+Albania,18.83,100.00,7.01
+Albania,18.83,99.10,26.52
+Albania,18.83,98.00,26.52
+Albania,18.83,99.80,26.52
+Albania,18.83,99.30,26.52
+Albania,18.83,99.80,26.52
+Albania,18.83,100.00,26.52
+Albania,18.83,100.00,26.52
+Albania,18.83,100.00,26.52
+Albania,18.83,99.10,47.70
+Albania,18.83,99.80,41.96
+Albania,18.83,100.00,41.96
+Albania,18.83,100.00,41.96
+Albania,18.83,100.00,41.96
+Albania,18.83,99.80,41.96
+Albania,18.83,99.30,41.96
+Albania,18.83,98.00,41.96
+Albania,18.83,99.10,41.96
+Albania,18.83,100.00,47.70
+Albania,18.83,100.00,47.70
+Albania,18.83,100.00,47.70
+Albania,18.83,99.80,47.70
+Albania,18.83,99.30,47.70
+Albania,18.83,99.80,47.70
+Albania,18.83,98.00,47.70
+Albania,18.83,99.80,18.39
+Albania,18.83,100.00,18.69
+Albania,18.83,100.00,18.69
+Albania,18.83,100.00,18.69
+Albania,18.83,99.80,18.69
+Albania,18.83,99.30,18.69
+Albania,18.83,99.80,18.69
+Albania,18.83,98.00,18.69
+Albania,18.83,99.10,18.69
+Albania,18.83,100.00,18.39
+Albania,18.83,100.00,18.39
+Albania,18.83,100.00,18.39
+Albania,18.83,99.80,18.39
+Albania,18.83,99.30,18.39
+Albania,18.83,98.00,18.39
+Albania,18.83,99.10,18.39
+Albania,18.83,100.00,29.07
+Albania,18.83,99.10,27.67
+Albania,18.83,98.00,27.67
+Albania,18.83,99.80,27.67
+Albania,18.83,99.30,27.67
+Albania,18.83,99.80,27.67
+Albania,18.83,100.00,27.67
+Albania,18.83,100.00,27.67
+Albania,18.83,100.00,27.67
+Albania,18.83,99.10,29.07
+Albania,18.83,98.00,29.07
+Albania,18.83,99.80,29.07
+Albania,18.83,99.30,29.07
+Albania,18.83,99.80,29.07
+Albania,18.83,100.00,29.07
+Albania,18.83,100.00,29.07
+Albania,18.83,98.00,39.20
+Albania,18.83,100.00,36.73
+Albania,18.83,99.10,36.73
+Albania,18.83,99.80,39.20
+Albania,18.83,99.30,39.20
+Albania,18.83,99.80,39.20
+Albania,18.83,100.00,39.20
+Albania,18.83,100.00,39.20
+Albania,18.83,100.00,39.20
+Albania,18.83,98.00,36.73
+Albania,18.83,99.80,36.73
+Albania,18.83,99.30,36.73
+Albania,18.83,99.80,36.73
+Albania,18.83,100.00,36.73
+Albania,18.83,99.10,39.20
+Albania,18.83,100.00,36.73
+Albania,18.83,99.10,32.87
+Albania,18.83,98.00,32.87
+Albania,18.83,99.80,32.87
+Albania,18.83,99.30,32.87
+Albania,18.83,99.80,32.87
+Albania,18.83,100.00,32.87
+Albania,18.83,100.00,32.87
+Albania,18.83,100.00,32.87
+Albania,18.83,99.10,34.94
+Albania,18.83,98.00,34.94
+Albania,18.83,99.80,34.94
+Albania,18.83,99.30,34.94
+Albania,18.83,99.80,34.94
+Albania,18.83,100.00,34.94
+Albania,18.83,100.00,34.94
+Albania,18.83,100.00,34.94
+Albania,18.83,100.00,22.03
+Albania,18.83,100.00,22.03
+Albania,18.83,100.00,22.03
+Albania,18.83,99.80,22.03
+Albania,18.83,99.30,22.03
+Albania,18.83,99.80,22.03
+Albania,18.83,98.00,22.03
+Albania,18.83,99.10,22.03
+Albania,18.83,100.00,24.24
+Albania,18.83,100.00,24.24
+Albania,18.83,100.00,24.24
+Albania,18.83,99.80,24.24
+Albania,18.83,99.30,24.24
+Albania,18.83,99.80,24.24
+Albania,18.83,98.00,24.24
+Albania,18.83,99.10,24.24
+Algeria,9.87,96.60,202.64
+Algeria,9.87,98.80,202.64
+Algeria,9.87,95.20,202.64
+Algeria,9.87,98.80,203.83
+Algeria,9.87,96.60,203.83
+Algeria,9.87,95.20,203.83
+Algeria,9.87,98.80,180.90
+Algeria,9.87,98.80,192.43
+Algeria,9.87,96.60,192.43
+Algeria,9.87,95.20,192.43
+Algeria,9.87,96.60,180.90
+Algeria,9.87,95.20,180.90
+Algeria,9.87,95.20,203.94
+Algeria,9.87,96.60,203.94
+Algeria,9.87,98.80,203.94
+Algeria,9.87,98.80,255.59
+Algeria,9.87,98.80,240.40
+Algeria,9.87,96.60,255.59
+Algeria,9.87,96.60,240.40
+Algeria,9.87,95.20,240.40
+Algeria,9.87,95.20,255.59
+Algeria,9.87,95.20,205.82
+Algeria,9.87,96.60,205.82
+Algeria,9.87,98.80,205.82
+Algeria,9.87,95.20,216.49
+Algeria,9.87,96.60,216.49
+Algeria,9.87,98.80,216.49
+Algeria,9.87,95.20,203.64
+Algeria,9.87,96.60,203.64
+Algeria,9.87,98.80,203.64
+Algeria,9.87,95.20,203.99
+Algeria,9.87,96.60,203.99
+Algeria,9.87,98.80,203.99
+Algeria,9.87,95.20,236.62
+Algeria,9.87,96.60,236.62
+Algeria,9.87,98.80,236.62
+Algeria,9.87,95.20,223.13
+Algeria,9.87,96.60,223.13
+Algeria,9.87,98.80,223.13
+Algeria,9.87,95.20,125.07
+Algeria,9.87,96.60,125.07
+Algeria,9.87,98.80,125.07
+Algeria,9.87,96.60,114.55
+Algeria,9.87,98.80,114.55
+Algeria,9.87,95.20,114.55
+Algeria,9.87,95.20,116.52
+Algeria,9.87,96.60,116.52
+Algeria,9.87,98.80,116.52
+Algeria,9.87,95.20,143.52
+Algeria,9.87,98.80,143.52
+Algeria,9.87,96.60,143.52
+Algeria,9.87,95.20,134.48
+Algeria,9.87,96.60,134.48
+Algeria,9.87,98.80,134.48
+Algeria,9.87,96.60,186.78
+Algeria,9.87,95.20,186.78
+Algeria,9.87,98.80,186.78
+Algeria,9.87,95.20,186.70
+Algeria,9.87,96.60,186.70
+Algeria,9.87,98.80,186.70
+Algeria,9.87,98.80,150.39
+Algeria,9.87,95.20,150.39
+Algeria,9.87,96.60,150.39
+Algeria,9.87,95.20,155.61
+Algeria,9.87,96.60,155.61
+Algeria,9.87,98.80,155.61
+Algeria,9.87,98.80,136.84
+Algeria,9.87,96.60,153.01
+Algeria,9.87,98.80,153.01
+Algeria,9.87,96.60,136.84
+Algeria,9.87,95.20,153.01
+Algeria,9.87,95.20,136.84
+Algeria,9.87,95.20,159.18
+Algeria,9.87,96.60,159.18
+Algeria,9.87,98.80,159.18
+Algeria,9.87,95.20,86.15
+Algeria,9.87,96.60,86.15
+Algeria,9.87,98.80,86.15
+Algeria,9.87,98.80,76.71
+Algeria,9.87,96.60,76.71
+Algeria,9.87,95.20,76.71
+Algeria,9.87,98.80,77.69
+Algeria,9.87,96.60,77.69
+Algeria,9.87,95.20,77.69
+Algeria,9.87,95.20,99.08
+Algeria,9.87,96.60,99.08
+Algeria,9.87,98.80,99.08
+Algeria,9.87,95.20,94.34
+Algeria,9.87,96.60,94.34
+Algeria,9.87,98.80,94.34
+Algeria,9.87,98.80,105.46
+Algeria,9.87,95.20,111.74
+Algeria,9.87,98.80,111.74
+Algeria,9.87,96.60,111.74
+Algeria,9.87,95.20,105.46
+Algeria,9.87,96.60,105.46
+Algeria,9.87,96.60,79.49
+Algeria,9.87,95.20,89.14
+Algeria,9.87,98.80,89.14
+Algeria,9.87,96.60,89.14
+Algeria,9.87,95.20,79.49
+Algeria,9.87,98.80,79.49
+Algeria,9.87,98.80,89.00
+Algeria,9.87,96.60,89.00
+Algeria,9.87,95.20,89.00
+Algeria,9.87,95.20,89.13
+Algeria,9.87,96.60,89.13
+Algeria,9.87,98.80,89.13
+Angola,2.44,49.60,269.82
+Angola,2.44,47.30,269.82
+Angola,2.44,47.30,273.60
+Angola,2.44,49.60,273.60
+Angola,2.44,47.30,304.04
+Angola,2.44,49.60,304.04
+Angola,2.44,47.30,291.41
+Angola,2.44,49.60,291.41
+Angola,2.44,47.30,291.75
+Angola,2.44,49.60,291.75
+Angola,2.44,47.30,221.91
+Angola,2.44,47.30,227.69
+Angola,2.44,49.60,227.69
+Angola,2.44,49.60,221.91
+Angola,2.44,47.30,252.80
+Angola,2.44,49.60,252.80
+Angola,2.44,47.30,233.10
+Angola,2.44,49.60,233.10
+Angola,2.44,49.60,367.26
+Angola,2.44,47.30,367.26
+Angola,2.44,47.30,334.73
+Angola,2.44,49.60,334.73
+Angola,2.44,47.30,1015.04
+Angola,2.44,49.60,1015.04
+Angola,2.44,49.60,1014.13
+Angola,2.44,47.30,1014.13
+Angola,2.44,49.60,1096.31
+Angola,2.44,47.30,1096.31
+Angola,2.44,47.30,1062.22
+Angola,2.44,49.60,1022.62
+Angola,2.44,47.30,1022.62
+Angola,2.44,49.60,1062.22
+Angola,2.44,49.60,997.42
+Angola,2.44,47.30,997.42
+Angola,2.44,47.30,961.12
+Angola,2.44,49.60,961.12
+Angola,2.44,49.60,1144.28
+Angola,2.44,47.30,1144.28
+Angola,2.44,47.30,1057.43
+Angola,2.44,49.60,1057.43
+Angola,2.44,47.30,1097.97
+Angola,2.44,47.30,1084.06
+Angola,2.44,49.60,1084.06
+Angola,2.44,49.60,1097.97
+Angola,2.44,47.30,1101.51
+Angola,2.44,49.60,1101.51
+Angola,2.44,47.30,1099.85
+Angola,2.44,49.60,1099.85
+Angola,2.44,47.30,859.92
+Angola,2.44,49.60,859.92
+Angola,2.44,49.60,549.84
+Angola,2.44,47.30,549.84
+Angola,2.44,47.30,507.72
+Angola,2.44,49.60,507.72
+Angola,2.44,49.60,462.97
+Angola,2.44,47.30,462.97
+Angola,2.44,47.30,398.88
+Angola,2.44,49.60,398.88
+Angola,2.44,49.60,438.34
+Angola,2.44,47.30,438.34
+Angola,2.44,49.60,676.50
+Angola,2.44,47.30,676.50
+Angola,2.44,47.30,594.19
+Angola,2.44,49.60,594.19
+Angola,2.44,47.30,893.49
+Angola,2.44,49.60,893.49
+Angola,2.44,47.30,934.12
+Angola,2.44,49.60,934.12
+Angola,2.44,47.30,758.27
+Angola,2.44,49.60,758.27
+Angola,2.44,47.30,799.64
+Angola,2.44,49.60,799.64
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,99.90,47.16
+"Antigua and Barbuda",28.98,99.90,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,99.00,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,99.90,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,100.00,47.16
+"Antigua and Barbuda",28.98,99.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,99.90,41.30
+"Antigua and Barbuda",28.98,99.90,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,99.00,41.30
+"Antigua and Barbuda",28.98,100.00,41.30
+"Antigua and Barbuda",28.98,99.90,41.30
+"Antigua and Barbuda",28.98,99.00,47.16
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,99.90,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,99.00,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,99.90,33.72
+"Antigua and Barbuda",28.98,99.90,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,100.00,33.72
+"Antigua and Barbuda",28.98,99.00,33.72
+"Antigua and Barbuda",28.98,99.90,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,99.00,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,99.90,51.30
+"Antigua and Barbuda",28.98,99.90,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,100.00,51.30
+"Antigua and Barbuda",28.98,99.00,51.30
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,99.90,34.89
+"Antigua and Barbuda",28.98,99.90,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,99.00,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,99.90,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,100.00,34.89
+"Antigua and Barbuda",28.98,99.00,34.89
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,99.90,34.02
+"Antigua and Barbuda",28.98,99.90,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,99.00,34.02
+"Antigua and Barbuda",28.98,100.00,34.02
+"Antigua and Barbuda",28.98,99.90,34.02
+"Antigua and Barbuda",28.98,99.00,34.02
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,99.90,50.57
+"Antigua and Barbuda",28.98,99.90,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,99.00,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,99.90,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,100.00,50.57
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,99.90,45.71
+"Antigua and Barbuda",28.98,99.90,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,99.00,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,99.90,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,100.00,45.71
+"Antigua and Barbuda",28.98,99.00,45.71
+"Antigua and Barbuda",28.98,99.00,50.57
+"Antigua and Barbuda",28.98,99.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,99.90,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,99.00,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,99.90,39.29
+"Antigua and Barbuda",28.98,99.90,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,99.90,36.81
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,100.00,39.29
+"Antigua and Barbuda",28.98,99.00,39.29
+"Antigua and Barbuda",28.98,99.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,99.90,36.81
+"Antigua and Barbuda",28.98,99.90,36.81
+"Antigua and Barbuda",28.98,100.00,36.81
+"Antigua and Barbuda",28.98,100.00,43.36
+"Antigua and Barbuda",28.98,99.90,44.10
+"Antigua and Barbuda",28.98,100.00,44.10
+"Antigua and Barbuda",28.98,100.00,44.10
+"Antigua and Barbuda",28.98,100.00,44.10
+"Antigua and Barbuda",28.98,100.00,44.10
+"Antigua and Barbuda",28.98,100.00,44.10
+"Antigua and Barbuda",28.98,100.00,44.10
+"Antigua and Barbuda",28.98,100.00,44.10
+"Antigua and Barbuda",28.98,100.00,44.10
+"Antigua and Barbuda",28.98,100.00,44.10
+"Antigua and Barbuda",28.98,99.90,44.10
