@@ -122,4 +122,12 @@ GROUP BY
     sp.ParentLocation
 ORDER BY 
     Highest_Maternal_Mortality_Rate DESC;
+    
+    
+-- TESTING
+CALL compare_attendance_mortality(2020, nigeria)
+    
+    
+    
+
 
