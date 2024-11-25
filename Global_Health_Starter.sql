@@ -53,7 +53,6 @@ CREATE TABLE IF NOT EXISTS skilled_personnel_cleaned (
     DateModified VARCHAR(50)
 );
 
-SELECT * FROM skilled_personnel_cleaned;
 
 -- Regions Table
 CREATE TABLE IF NOT EXISTS regions (
