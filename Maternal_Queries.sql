@@ -15,9 +15,6 @@ ORDER BY maternal_mortality_rate ASC
 LIMIT 5;
 
 
-
-
-
 -- Query 2: 
 -- Compare skilled birth attendance rates with maternal mortality. 
 -- Join SkilledBirthAttendance and MaternalMortality
@@ -112,6 +109,47 @@ END //
 DELIMITER ;
 
 
+-- Query 4: 
+-- Rank countries by their overall healthcare metrics (doctors + nurses + skilled birth attendance)
+SELECT 
+    hw.country AS Country,
+    hw.medical_doctors_per_10k AS Doctors_Per_10k,
+    sba.FactValueNumeric AS Births_Attended_By_Skilled_Personnel,
+    mm.RATE_PER_100000_N AS Maternal_Mortality_Rate
+FROM 
+    healthcare_workforce hw
+JOIN 
+    maternal_mortality mm
+ON 
+    hw.country = mm.GEO_NAME_SHORT
+JOIN 
+    skilled_birth_attendance sba
+ON 
+    hw.country = sba.Location
+ORDER BY 
+    hw.country ASC
+    limit 5;
+
+-- Query 5: 
+-- Correlate healthcare workforce density with maternal mortality. Create a calculated column showing ratios and join HealthWorkforce with MaternalMortality.
+SELECT
+    hw.country,
+    hw.medical_doctors_per_10k,
+    hw.nursing_midwifery_per_10k,
+    hw.dentists_per_10k,
+    hw.pharmacists_per_10k,
+    (hw.medical_doctors_per_10k + hw.nursing_midwifery_per_10k + hw.dentists_per_10k + hw.pharmacists_per_10k) AS total_healthcare_workforce_per_10k,
+    mm.RATE_PER_100000_N AS maternal_mortality_rate
+FROM
+    healthcare_workforce hw
+JOIN
+    maternal_mortality mm
+ON
+    hw.country = mm.GEO_NAME_SHORT
+    limit 5;
+
+
+
 -- QUERY 6
 -- Order region by highest mortality rate ratio
 SELECT 
@@ -128,11 +166,3 @@ GROUP BY
 ORDER BY 
     Highest_Maternal_Mortality_Rate DESC;
     
-    
--- TESTING
-CALL compare_attendance_mortality(2020, nigeria)
-    
-    
-    
-
-
