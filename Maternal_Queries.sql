@@ -1,4 +1,7 @@
--- Query One: Countries with Highest and Lowest Mortality Rates
+-- CS3200 project 
+
+-- Query 1
+-- Countries with Highest and Lowest Mortality Rates
 SELECT DISTINCT GEO_NAME_SHORT AS country, RATE_PER_100000_N AS maternal_mortality_rate
 FROM maternal_mortality
 WHERE RATE_PER_100000_N IS NOT NULL
@@ -12,10 +15,11 @@ ORDER BY maternal_mortality_rate ASC
 LIMIT 5;
 
 
--- CS3200 project 
--- Query 2
 
--- Query 2: Compare skilled birth attendance rates with maternal mortality. - Fanta Kébé
+
+
+-- Query 2: 
+-- Compare skilled birth attendance rates with maternal mortality. 
 -- Join SkilledBirthAttendance and MaternalMortality
 
 
@@ -70,6 +74,7 @@ VALUES
 
 
 -- Query 3
+-- List regions with the lowest hospital bed density
 DROP PROCEDURE IF EXISTS identify_low_density_regions;
 
 DELIMITER //

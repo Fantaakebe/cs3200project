@@ -4,6 +4,7 @@ USE global_healthcare;
 
 
 -- tables
+DROP TABLE IF EXISTS healthcare_workforce;
 CREATE TABLE IF NOT EXISTS healthcare_workforce (
     country VARCHAR(100) PRIMARY KEY,
     medical_doctors_per_10k DECIMAL(10,2),
@@ -35,22 +36,60 @@ CREATE TABLE IF NOT EXISTS maternal_mortality (
     PRIMARY KEY (IND_ID, DIM_TIME, GEO_NAME_SHORT)
 );
 
-
-CREATE TABLE IF NOT EXISTS skilled_personnel_cleaned (
-    IndicatorCode VARCHAR(50),
-    Indicator VARCHAR(255),
-    ValueType VARCHAR(50),
-    ParentLocationCode VARCHAR(50),
-    ParentLocation VARCHAR(100),
-    `Location type` VARCHAR(50),  
-    SpatialDimValueCode VARCHAR(50),
-    Location VARCHAR(100),
-    `Period type` VARCHAR(50),    
-    Period VARCHAR(20),
-    IsLatestYear VARCHAR(10),
-    FactValueNumeric DECIMAL(10,2),
-    Value VARCHAR(20),
-    DateModified VARCHAR(50)
+DROP TABLE IF EXISTS skilled_personnel_cleaned;
+CREATE TABLE skilled_personnel_cleaned (
+    IndicatorCode VARCHAR(50) NOT NULL,         
+    Indicator VARCHAR(255) NOT NULL,           
+    ValueType VARCHAR(50),                     
+    ParentLocationCode VARCHAR(50),           
+    ParentLocation VARCHAR(100),        
+    LocationType VARCHAR(50),                  
+    SpatialDimValueCode VARCHAR(50),           
+    Location VARCHAR(100) NOT NULL,            
+    PeriodType VARCHAR(50),                  
+    Period VARCHAR(20),                        
+    IsLatestYear VARCHAR(10),                  
+    FactValueNumeric DECIMAL(10,2),            
+    Value VARCHAR(50),                         
+    FactComments TEXT,                        
+    DateModified DATE                         
 );
 
-SELECT * FROM skilled_personnel_cleaned;
+
+-- Regions Table
+CREATE TABLE IF NOT EXISTS regions (
+    region_id VARCHAR(50) PRIMARY KEY,
+    region_name VARCHAR(100) NOT NULL
+);
+
+-- Countries Table
+CREATE TABLE IF NOT EXISTS countries (
+    geo_code VARCHAR(50) PRIMARY KEY,
+    country_name VARCHAR(100) NOT NULL,
+    region_id VARCHAR(50),
+    FOREIGN KEY (region_id) REFERENCES regions(region_id)
+);
+
+-- Indicators Table
+CREATE TABLE IF NOT EXISTS indicators (
+    indicator_id INT AUTO_INCREMENT PRIMARY KEY,
+    indicator_name VARCHAR(100) NOT NULL,
+    description TEXT
+);
+
+-- Country Indicators Table
+CREATE TABLE IF NOT EXISTS country_indicators (
+    id INT AUTO_INCREMENT PRIMARY KEY,          
+    geo_code VARCHAR(50) NOT NULL,              
+    indicator_id INT NOT NULL,                 
+    indicator_name VARCHAR(255),               
+    value DECIMAL(10,2) NOT NULL,               
+    data_year INT NOT NULL,                     
+    FOREIGN KEY (geo_code) REFERENCES countries(geo_code) ON DELETE CASCADE ON UPDATE CASCADE,
+    FOREIGN KEY (indicator_id) REFERENCES indicators(indicator_id) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+ALTER TABLE skilled_personnel_cleaned
+ADD CONSTRAINT fk_skilled_countries
+FOREIGN KEY (Location) REFERENCES countries(geo_code);
+
